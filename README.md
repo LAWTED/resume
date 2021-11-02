@@ -26,20 +26,35 @@
 
   ## Project Experience
 
-  1. **Personage - Separate comment area - Independent Development - 2021.1**
+1. **Personage - Separate comment area - Independent Development - 2021.1**
      * Write the front-end interface with Vue + element UI
      * Use mongodb and Node.js + Express builds the back end
      * Use nginx reverse Proxy to make Vue project communicate with express normally
 
-  2. **Tencent - Tencent Video Search Center Debug Board - 2021.4-up to now**
+2. **Tencent - Tencent Video Search Center Debug Board - 2021.4-up to now**
+   
      * Provide a visual interface for developers to debug
      * Write the front-end interface with Vue + T Design
      * Use django builds the back end, and make data communicate normally through tencent internal interface
+3. **Tencent - Tencent Video Search Center Diff Debug Board - 2021.9-up to now** 
+   
+      * Provide diff page for manual input
+      * Use React + Antd pen front-end interface
+      * Use Node.js to build complete, realize data interaction through Tencent's internal interface
 
-  3. **Beijing University of Post and Telecommunications - TimesSaver Mini app - 2021.4-2021.6**
+
+4. **Beijing University of Post and Telecommunications - TimesSaver Mini app - 2021.4-2021.6**
+   
      * Team reminder management mini app
+     
      * Write the front-end interface with wxml、wxss、JavaScript
+     
      * Use WeChat cloud development functions, realize back-end and database functions through WeChat cloud database and cloud storage
+     
+5. **Beijing University of Post and Telecommunications - Telecommunications-Smart City Big Data Visualization - 2021.6-up to now**
+   
+    * Use Vue + ElementUI to write front-end interface
+    * Use Django to build a backend to interact with the database
 
   ## Personal Web Page 
 
