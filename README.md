@@ -16,9 +16,9 @@
 
   ## Skills
 
-  * Solid computer foundation, familiar with common data structure and algorithm, Leetcode has passed 350 questions
+  * Solid computer foundation, familiar with common data structure and algorithm, Leetcode has passed 550 questions
   * Proficient in front-end basic knowledge, HTML / CSS / JavaScript
-  * Familiar with Vue framework, understand Node.js, Express, Django and Wechat Mini Program
+  * Familiar with Vue and React framework, understand Node.js, Express, Django and Wechat Mini Program
   * Familiar with mysql, mongodb and mongoose database knowledge
   * Understand Axios, HTTP protocol and other front-end domain knowledge
   * Skillfully use C/C++ and python

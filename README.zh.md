@@ -16,9 +16,9 @@
 
 ## 专业技能
 
-* 计算机基础扎实，熟悉常见的数据结构和算法，leetcode已通过500题
+* 计算机基础扎实，熟悉常见的数据结构和算法，leetcode已通过550题
 * 熟练掌握前端基础知识，HTML/CSS/JavaScript，熟悉小程序开发
-* 熟悉Vue框架，了解Node.js、Express、Django框架
+* 熟悉Vue和React框架，了解Node.js、Express、Django框架
 * 熟悉mysql,mongoDB及mongoose等数据库知识
 * 了解axios,HTTP协议等前端领域知识
 * 熟练运用C++/C、Python
