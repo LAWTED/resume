@@ -18,7 +18,7 @@
 
   * Solid computer foundation, familiar with common data structure and algorithm, Leetcode has passed 550 questions
   * Proficient in front-end basic knowledge, HTML / CSS / JavaScript
-  * Familiar with Vue and React framework, understand Node.js, Express, Django and Wechat Mini Program
+  * Familiar with Vue and React framework, understand Three.js, Node.js, Express, Django and Wechat Mini Program
   * Familiar with mysql, mongodb and mongoose database knowledge
   * Understand Axios, HTTP protocol and other front-end domain knowledge
   * Skillfully use C/C++ and python
@@ -32,31 +32,27 @@
      * Use nginx reverse Proxy to make Vue project communicate with express normally
 
 2. **Tencent - Tencent Video Search Center Debug Board - 2021.4-up to now**
-   
-     * Provide a visual interface for developers to debug
+   * Provide a visual interface for developers to debug
      * Write the front-end interface with Vue + T Design
      * Use django builds the back end, and make data communicate normally through tencent internal interface
 3. **Tencent - Tencent Video Search Center Diff Debug Board - 2021.9-up to now** 
-   
-      * Provide diff page for manual input
+   * Provide diff page for manual input
       * Use React + Antd pen front-end interface
       * Use Node.js to build complete, realize data interaction through Tencent's internal interface
 
 
 4. **Beijing University of Post and Telecommunications - TimesSaver Mini app - 2021.4-2021.6**
-   
-     * Team reminder management mini app
+   * Team reminder management mini app
      
      * Write the front-end interface with wxml、wxss、JavaScript
      
      * Use WeChat cloud development functions, realize back-end and database functions through WeChat cloud database and cloud storage
-     
 5. **Beijing University of Post and Telecommunications - Telecommunications-Smart City Big Data Visualization - 2021.6-up to now**
-   
-    * Use Vue + ElementUI to write front-end interface
+   * Use Vue + ElementUI to write front-end interface
     * Use Django to build a backend to interact with the database
 
   ## Personal Web Page 
 
   * https://lawted.gitee.io/
   * https://github.com/LAWTED
+
