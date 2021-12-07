@@ -37,7 +37,7 @@
    * Write the front-end interface with Vue + T Design
    * Use django builds the back end, and make data communicate normally through tencent internal interface
 
-3. **Tencent - Tencent Video Search Center Diff Debug Board - 2021.9 - up to now** 
+3. **Tencent - Tencent Video Search Center Diff Debug Board - 2021.9 - 2021.12** 
    * Provide diff page for manual input
    * Use React + Antd pen front-end interface
    * Use Node.js to build complete, realize data interaction through Tencent's internal interface
