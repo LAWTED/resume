@@ -10,8 +10,8 @@
 
   ## Work & Education Experience
 
-  * Snails Finance&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.11 — up to now&emsp;&emsp;Core person in charge--front-end development  
   * Tencent&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp; &emsp; &emsp; &emsp; 2021.4 — up to now          PCG - Video Search Center- Front-end Intern       
+  * Snails Finance&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.11 — 2022.2&emsp;&emsp;Core person in charge--front-end development  
   * FiberHome Technologies&emsp; &emsp; &emsp;  2021.1 — 2021.2&emsp;            Software Development - Front-end Intern  
   * Beijing University of Post and Telecommunications&emsp;2019.9—2023.7&emsp; Telecommunication engineering management - BS
 

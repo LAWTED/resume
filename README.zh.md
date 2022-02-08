@@ -10,14 +10,14 @@
 
 ## 工作及教育经历
 
-* Snails Finance&emsp;&emsp;&ensp;2021.1—2021.2&emsp;&emsp;&emsp;&emsp;&emsp;核心负责人--前端开发  
+* Snails Finance&emsp;&emsp;&ensp;2021.11—2022.1&emsp;&emsp;&emsp;&emsp;&emsp;核心负责人--前端开发  
 * 腾讯&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2021.4—至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;PCG-搜索策略组-前端实习生
 * 烽火通信&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2021.1—2021.2&emsp;&emsp;&emsp;&emsp;&emsp; 软件开发部门-前端实习生  
 * 北京邮电大学&emsp;&emsp;&emsp;2019.9—2023.7&emsp;&emsp;&emsp;&emsp; &ensp;电信工程与管理专业-本科  
 
 ## 专业技能
 
-* 计算机基础扎实，熟悉常见的数据结构和算法，leetcode已通过550题，Google KickStart 全球第936名
+* 计算机基础扎实，熟悉常见的数据结构和算法，Google KickStart 全球第936名
 * 熟练掌握前端基础知识，HTML/CSS/JavaScript，熟练小程序开发，熟悉Web3开发
 * 熟练Vue和React框架，熟悉Three.js, Node.js、Express、Django框架
 * 熟悉mysql,mongoDB及mongoose等数据库知识
