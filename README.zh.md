@@ -10,8 +10,8 @@
 
 ## 工作及教育经历
 
-* Snails Finance&emsp;&emsp;&ensp;2021.11—2022.1&emsp;&emsp;&emsp;&emsp;&emsp;核心负责人--前端开发  
 * 腾讯&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2021.4—至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;PCG-搜索策略组-前端实习生
+* Snails Finance&emsp;&emsp;&ensp;2021.11—2022.2&emsp;&emsp;&emsp;&emsp;&emsp;核心负责人--前端开发  
 * 烽火通信&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2021.1—2021.2&emsp;&emsp;&emsp;&emsp;&emsp; 软件开发部门-前端实习生  
 * 北京邮电大学&emsp;&emsp;&emsp;2019.9—2023.7&emsp;&emsp;&emsp;&emsp; &ensp;电信工程与管理专业-本科  
 
@@ -40,7 +40,7 @@
     * 提供diff页面用于人工标注
     * 使用React  + Antd 编写前端界面
     * 使用Node.js搭建后端，通过腾讯内部接口实现数据交互
-4. **Web3 - Snails Finance - 2021.11-至今**
+4. **Web3 - Snails Finance - 2021.11-2022.2**
     * 基于Near链的稳定代币DiFi
     * 使用React + Tailwind编写前端界面
     * 使用Near.js 部署区块链合约
