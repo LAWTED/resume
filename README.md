@@ -20,8 +20,7 @@
   * Solid computer foundation, familiar with common data structure and algorithm, Google KickStart ranked 936 in the world
   * Proficient in front-end basic knowledge, HTML / CSS / JavaScript, Familiar with Web3 development
   * Familiar with Vue and React framework, Familiar with Three.js, Node.js, Express, Django framework
-  * Familiar with mysql, mongodb and mongoose database knowledge
-  * Familiar with Axios, HTTP protocol and other front-end domain knowledge
+  * Familiar with Axios, HTTP protocol and other front-end domain knowledge, Familiar with mysql, mongodb and mongoose database knowledge
   * Skillfully use C/C++, python and Typescript
   * Strong learning ability and excellent team communication and cooperation ability
 
@@ -31,24 +30,18 @@
      * Write the front-end interface with Vue + element UI
      * Use mongodb and Node.js + Express builds the back end
      * Use nginx reverse Proxy to make Vue project communicate with express normally
-
-2. **Tencent - Tencent Video Search Center Debug Board - 2021.4-up to now**
+2. **Tencent - Tencent Video Search Center Debug Board - 2021.4 - up to now**
    * Provide a visual interface for developers to debug
    * Write the front-end interface with Vue + T Design
    * Use django builds the back end, and make data communicate normally through tencent internal interface
-
 3. **Tencent - Tencent Video Search Center Diff Debug Board - 2021.9 - 2021.12** 
    * Provide diff page for manual input
    * Use React + Antd pen front-end interface
    * Use Node.js to build complete, realize data interaction through Tencent's internal interface
-
 4. **Web3 - Snails Finance - 2021.11 - 2022.2**
    * DiFi, a stable token based on the Near chain
    * Use React + Tailwind to write front-end interface
    * Use Near.js to deploy blockchain contracts
-5. **Beijing University of Post and Telecommunications - Telecommunications-Smart City Big Data Visualization - 2021.6-up to now**
-   * Use Vue + ElementUI to write front-end interface
-    * Use Django to build a backend to interact with the database
 
   ## Personal Web Page and Related Websites
 

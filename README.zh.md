@@ -20,8 +20,7 @@
 * 计算机基础扎实，熟悉常见的数据结构和算法，Google KickStart 全球第936名
 * 熟练掌握前端基础知识，HTML/CSS/JavaScript，熟练小程序开发，熟悉Web3开发
 * 熟练Vue和React框架，熟悉Three.js, Node.js、Express、Django框架
-* 熟悉mysql,mongoDB及mongoose等数据库知识
-* 熟悉axios,HTTP协议,Web3等前端领域知识
+* 熟悉axios,HTTP协议,Web3等前端领域知识, 熟悉mysql,mongoDB及mongoose等数据库知识
 * 熟练运用C++/C、Python、TypeScript
 * 强大的学习能力和优秀的团队沟通与协作能力
 
@@ -44,9 +43,6 @@
     * 基于Near链的稳定代币DiFi
     * 使用React + Tailwind编写前端界面
     * 使用Near.js 部署区块链合约
-5. **北京邮电大学 - 智慧城市大数据可视化 - 2021.6-至今**
-    * 使用Vue + ElementUI编写前端界面
-    * 使用Django搭建后端，与数据库进行数据交互
 
 ## 个人账号和相关网站
 * lawted.gitee.io
