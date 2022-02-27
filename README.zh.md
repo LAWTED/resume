@@ -10,10 +10,10 @@
 
 ## 工作及教育经历
 
-* 腾讯&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2021.4—至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;PCG-搜索策略组-前端实习生
-* Snails Finance&emsp;&emsp;&ensp;2021.11—2022.2&emsp;&emsp;&emsp;&emsp;&emsp;核心负责人--前端开发  
-* 烽火通信&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2021.1—2021.2&emsp;&emsp;&emsp;&emsp;&emsp; 软件开发部门-前端实习生  
-* 北京邮电大学&emsp;&emsp;&emsp;2019.9—2023.7&emsp;&emsp;&emsp;&emsp; &ensp;电信工程与管理专业-本科  
+* 腾讯&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2021.4—至今  <span style="float:right;">PCG-搜索策略组-前端实习生</span>
+* Snails Finance&emsp;&emsp;&ensp;2021.11—2022.2 <span style="float:right;">核心负责人--前端开发 </span>
+* 烽火通信&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2021.1—2021.2 <span style="float:right;">软件开发部门-前端实习生 </span>
+* 北京邮电大学&emsp;&emsp;&emsp;2019.9—2023.7<span style="float:right;">电信工程与管理专业-本科 </span>
 
 ## 专业技能
 
@@ -27,8 +27,7 @@
 ## 项目经历
 
 1. **个人 - 前后端分离的评论区 - 独立开发 - 2021.1**
-   
-    * 使用Vue + Element UI编写前端界面
+   * 使用Vue + Element UI编写前端界面
     * 使用MongoDB和Node.js + Express搭建后端
     * 使用Nginx反向代理，使Vue项目与express正常通讯
 2. **腾讯 - 腾讯视频搜索中心debug白板 - 2021.4-至今**
@@ -45,7 +44,7 @@
     * 使用Near.js 部署区块链合约
 
 ## 个人账号和相关网站
-* lawted.gitee.io
+* lawted.tech
 * https://www.snails.fi/
 * https://gitee.com/lawted
 * https://github.com/LAWTED

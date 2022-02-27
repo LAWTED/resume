@@ -33,7 +33,7 @@
 2. **Tencent - Tencent Video Search Center Debug Board - 2021.4 - up to now**
    * Provide a visual interface for developers to debug
    * Write the front-end interface with Vue + T Design
-   * Use django builds the back end, and make data communicate normally through tencent internal interface
+   * Use django builds the back end, and communicate through tencent internal interface
 3. **Tencent - Tencent Video Search Center Diff Debug Board - 2021.9 - 2021.12** 
    * Provide diff page for manual input
    * Use React + Antd pen front-end interface
@@ -45,7 +45,8 @@
 
   ## Personal Web Page and Related Websites
 
-  * https://www.snails.fi/
-  * https://lawted.gitee.io/
+* http://lawted.tech
+
+  * https://www.snails.fi
   * https://github.com/LAWTED
 
