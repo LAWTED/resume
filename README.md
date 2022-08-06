@@ -6,7 +6,7 @@
 
   * Gender: Male&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &ensp;     Birth: 2000.7  
   * Tel: 17364037659 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&ensp;   &ensp;  E-mail: wmz@bupt.edu.cn
-  * Major: Telecommunications Engineering and Management &emsp;&emsp;&emsp; Job: Front-end Intern
+  * Major: Telecommunications Engineering and Management &emsp;&emsp;&emsp; Job: Frontend Engineer
 
   ## Work & Education Experience
 
@@ -26,7 +26,7 @@
 
   ## Project Experience
 
-1. **Personage - BUPT-Auto_Syllabus - Independent Development - 2022.3**
+1. **Personage - BUPT-Auto Syllabus - Independent Development - 2022.3**
      * Write the front-end interface with `Vue` + `Tailwind`, use `Django` builds the back 
      * Use `Openconnect` to penetrate the intranet, use `Python` crawls the timetable data
      * Use `Nginx` reverse Proxy , and deployed at [lawted.tech](lawted.tech), Thousands used
@@ -45,6 +45,5 @@
 
   ## Personal Web Page and Related Websites
 
-* http://lawted.tech
 * https://www.snails.fi
 * https://github.com/LAWTED

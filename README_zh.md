@@ -14,13 +14,12 @@
 * Snails Finance&emsp;&emsp;&ensp;2021.11—2022.2 <span style="float:right;">核心负责人--前端开发 </span>
 * 烽火通信&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2021.1—2021.2 <span style="float:right;">软件开发部门-前端实习生 </span>
 * 北京邮电大学&emsp;&emsp;&emsp;2019.9—2023.7<span style="float:right;">电信工程与管理专业-本科 </span>
-
 ## 专业技能
 
-* 计算机基础扎实，熟悉常见的数据结构和算法，Google KickStart 全球第936名
-* 熟练掌握前端基础知识，`HTML`/`CSS`/`JavaScript`，熟练小程序开发，熟悉Web3开发
-* 熟练`Vue`和`React`框架，熟悉`Three.js`、`Node.js`、`Express`、`Django`框架
-* 熟悉`axios`,HTTP协议,Web3等前端领域知识, 熟悉`mysql`,`mongoDB`等数据库知识
+* 计算机基础扎实，熟练常见的数据结构和算法，Google KickStart 全球第936名
+* 熟练掌握前端基础知识，`HTML`/`CSS`/`JavaScript`，熟练小程序开发，掌握Web3开发
+* 熟练`Vue`和`React`框架，掌握`Three.js`、`Node.js`、`Express`、`Django`框架
+* 熟练`axios`,HTTP协议,Web3等前端领域知识, 掌握`mysql`,`mongoDB`等数据库知识
 * 熟练运用`C++/C`、`Python`、`TypeScript`
 * 强大的学习能力和优秀的团队沟通与协作能力
 
