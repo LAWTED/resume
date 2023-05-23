@@ -1,49 +1,58 @@
 <center>
-    <h1>Mingze Wu</h1>
-  </center>
+  <h1>Wu Mingze</h1>
+</center>
 
-  ## Personal Information 
+## Personal Information
 
-  * Gender: Male&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &ensp;     Birth: 2000.7  
-  * Tel: 17364037659 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&ensp;   &ensp;  E-mail: wmz@bupt.edu.cn
-  * Major: Telecommunications Engineering and Management &emsp;&emsp;&emsp; Job: Frontend Engineer
+* Gender: Male                                  Date of Birth: July 2000
+* Phone: 17364037659                  Email: wmz@bupt.edu.cn
 
-  ## Work & Education Experience
+## Work and Education Experience
 
-  * Tencent&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2021.4—up to now  <span style="float:right;">PCG - Front-end Intern</span>
-* Snails Finance&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;2021.11—2022.2 <span style="float:right;"> Core person in charge--front-end development </span>
-* FiberHome Technologies&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;2021.1—2021.2 <span style="float:right;">Software Development - Front-end Intern </span>
-* Beijing University of Post and Telecommunications          2019.9—2023.7<span style="float:right;"> Telecommunications - BS </span>
+* Alibaba Cloud                                     Dec 2022 - Present    <span style="float:right;">Lingyang-Dataphin Team - Frontend Engineer</span>
+* MiniMax                                                Oct 2022 - Dec 2022  <span style="float:right;">Business Systems Team - Frontend Intern</span>
+* Tencent                                                Apr 2021 - Oct 2022  <span style="float:right;">PCG-Search Strategy Team - Frontend Intern</span>
+* Snails Finance                                     Nov 2021 - Feb 2022 <span style="float:right;">Lead Frontend Developer</span>
+* FiberHome Communications        Jan 2021 - Feb 2021 <span style="float:right;">Software Development Department - Frontend Intern</span>
+* Beijing University of Posts and Telecommunications   Sep 2019 - Jul 2023 <span style="float:right;">Telecommunications Engineering and Management - Bachelor's Degree</span>
 
 ## Skills
 
-  * Solid computer foundation, Google KickStart ranked 936 in the world
-  * Proficient in front-end basic knowledge, `HTML` / `CSS` / `JavaScript`
-  * Familiar with `Vue` and `React` framework, Familiar with `Three.js`,`Node.js`, `Express`, `Django` framework
-  * Familiar with `Axios`, HTTP protocol and other front-end domain knowledge, Familiar with `mysql`, `mongodb` and database knowledge
-  * Skillfully use `C/C++`, `python` and `Typescript`
-  * Strong learning ability and excellent team communication and cooperation ability
+* Proficient in frontend fundamentals, `HTML`/`CSS`/`JavaScript`, proficient in mini-program development, familiar with Web3 development
+* Proficient in `Vue` and `React` frameworks, familiar with `Three.js`, `Node.js`, `Express`, `Django` frameworks
+* Proficient in frontend knowledge such as `axios`, HTTP protocol, Web3, familiar with databases like `MySQL`, `MongoDB`
+* Proficient in `C++/C`, `Python`, `TypeScript`
+* Strong learning ability and excellent teamwork communication and collaboration skills
 
-  ## Project Experience
+## Project Experience
 
-1. **Personage - BUPT-Auto Syllabus - Independent Development - 2022.3**
-     * Write the front-end interface with `Vue` + `Tailwind`, use `Django` builds the back 
-     * Use `Openconnect` to penetrate the intranet, use `Python` crawls the timetable data
-     * Use `Nginx` reverse Proxy , and deployed at [lawted.tech](lawted.tech), Thousands used
-2. **Tencent - Tencent Video Search Center Debug Board - 2021.4 - up to now**
-   * Provide a visual interface for developers to debug
-   * Write the front-end interface with `Vue` + `TDesign`
-   * Use `Django` builds the back end, and communicate through tencent internal interface
-3. **Tencent - Tencent Video Search Center Diff Debug Board - 2021.9 - 2021.12** 
-   * Provide diff page for manual input
-   * Use `React` + `Antd` pen front-end interface
-   * Use `Node.js` to build complete, realize data interaction through Tencent's internal interface
-4. **Web3 - Snails Finance - 2021.11 - 2022.2**
-   * DiFi, a stable token based on the Near chain
-   * Use `React` + `Tailwind` to write front-end interface
-   * Use `Near.js` to deploy blockchain contracts
+1. **Personal - BUPT Course Schedule to Apple Native Calendar - Independent Development - Mar 2022**
+   
+   * Developed frontend interface using `Vue` + `Tailwind` and built the backend using `Django`
+   * Used `Openconnect` for intranet penetration, crawled and processed course schedule data with `Python`
+   * Deployed the project on [lawted.tech](lawted.tech) using `Nginx` reverse proxy, attracting over a thousand users within a month. Temporarily closed due to security policy reasons.
 
-  ## Personal Web Page and Related Websites
+2. **Alibaba Cloud - Dataphin - Dec 2022-Present**
+   * Involved in daily iterations of Dataphin, an intelligent data construction and management platform, primarily responsible for the asset directory module
+   * Developed frontend interface using `React`, mainly focusing on the development of complex linkage tasks such as tables and forms
+   
+2. **Tencent - Tencent Video Search Center Debug Whiteboard - Apr 2021-Oct 2022**
+   * Provided a visual interface for developers to debug
+   * Developed frontend interface using `Vue` + `TDesign` and participated in the development and maintenance of the `TDesign` component library
+   * Built the backend using `Django` and achieved data interaction through internal Tencent interfaces
 
-* https://www.snails.fi
+3. **Minimax - Build an AI Mini Program (Glow Mini Program Edition) - Oct 2022-Dec 2022**
+   * Completed initial development of the mini program
+   * Developed the mini program using `Native Mini Program`, mainly focusing on the development of chat interface and lists
+   * Used `Umeng` for data tracking and used message queue SDK to implement chat functionality
+
+4. **Web3 - Snails Finance - Nov 2021-Feb 2022**
+   * Stable token DeFi based on the Near blockchain
+   * Developed frontend interface using `React` + `Tailwind`
+   * Deployed blockchain contracts using `Near.js`
+
+## Personal Accounts and Websites
+* http://www.lawted.tech
+* https://www.snails.fi/
 * https://github.com/LAWTED
+
