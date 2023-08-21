@@ -5,7 +5,7 @@
 ## Personal Information
 
 * Gender: Male                                  Date of Birth: July 2000
-* Phone: 17364037659                  Email: wmz@bupt.edu.cn
+* Phone: 17364037659                  Email: lawtedwu@gmail.com
 
 ## Work and Education Experience
 
