@@ -19,7 +19,7 @@
 ## 专业技能
 
 * 熟练掌握前端基础知识，`HTML`/`CSS`/`JavaScript`，熟练小程序开发，掌握Web3开发
-* 熟练`Vue`和`React`框架，掌握`Three.js`、`Node.js`、`Express`、`Django`框架
+* 熟练`Vue`和`React`框架，掌握`Node.js`、`Express`、`Django`、`Ar.js`、`Three.js`框架/库
 * 熟练`axios`,HTTP协议,Web3等前端领域知识, 掌握`mysql`,`mongoDB`等数据库知识
 * 熟练运用`C++/C`、`Python`、`TypeScript`
 * 强大的学习能力和优秀的团队沟通与协作能力
@@ -52,5 +52,5 @@
    * 使用`Near.js`部署区块链合约
 
 ## 个人账号和相关网站
-* http://blog.lawted.tech
+* http://www.lawted.tech
 * https://github.com/LAWTED
