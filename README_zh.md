@@ -9,7 +9,7 @@
 
 ## 工作及教育经历
 
-* 阿里云                                             2022.12—至今  <span style="float:right;">瓴羊-Dataphin组-前端工程师</span>
+* 阿里云                                             2022.12—至今  <span style="float:right;">瓴羊-Dataphin组-前端实习生&前端工程师</span>
 * MiniMax                                         2022.10—2022.12  <span style="float:right;">业务系统组-前端实习生</span>
 * 腾讯                                                 2021.4—2022.10  <span style="float:right;">PCG-搜索策略组-前端实习生</span>
 * Snails Finance                               2021.11—2022.2 <span style="float:right;">负责人--前端开发 </span>
@@ -32,7 +32,8 @@
    * 使用 `Openconnect` 穿透内网，`Python` 爬取课表数据并处理
    * 使用 `Nginx` 反向代理，并部署在 [lawted.tech](lawted.tech)，一个月内超过千人使用，后因安全策略暂时关闭
 2. **阿里云 - Dataphin - 2022.12-至今**
-   * 参与智能数据构建与管理平台Dataphin数据日常迭代, 主要负责资产目录模块
+   * 参与基于`Monaco Editor`的网页代码编辑器的相关开发和维护
+   * 参与智能数据构建与管理平台Dataphin数据日常迭代, 主要负责资产模块
    * 使用`React` 编写前端界面，主要完成表格, 表单等复杂联动任务的开发
    
 2. **腾讯 - 腾讯视频搜索中心debug白板 - 2021.4-2022.10**
