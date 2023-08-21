@@ -5,7 +5,7 @@
 ## 个人信息 
 
 * 性 别：男                                 出生年月 ：2000.7  
-* 手 机：17364037659             邮 箱：wmz@bupt.edu.cn
+* 手 机/微 信：17364037659             邮 箱：lawtedwu@gmail.com
 
 ## 工作及教育经历
 
@@ -52,6 +52,5 @@
    * 使用`Near.js`部署区块链合约
 
 ## 个人账号和相关网站
-* http://www.lawted.tech
-* https://www.snails.fi/
+* http://blog.lawted.tech
 * https://github.com/LAWTED
