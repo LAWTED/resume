@@ -9,7 +9,7 @@
 
 ## Work and Education Experience
 
-* Alibaba Cloud                                     Dec 2022 - Present    <span style="float:right;">Lingyang-Dataphin Team - Frontend Engineer</span>
+* Alibaba Cloud                                     Dec 2022 - Present    <span style="float:right;">Lingyang-Dataphin Team - Frontend Intern&Engineer</span>
 * MiniMax                                                Oct 2022 - Dec 2022  <span style="float:right;">Business Systems Team - Frontend Intern</span>
 * Tencent                                                Apr 2021 - Oct 2022  <span style="float:right;">PCG-Search Strategy Team - Frontend Intern</span>
 * Snails Finance                                     Nov 2021 - Feb 2022 <span style="float:right;">Lead Frontend Developer</span>
@@ -33,8 +33,9 @@
    * Deployed the project on [lawted.tech](lawted.tech) using `Nginx` reverse proxy, attracting over a thousand users within a month. Temporarily closed due to security policy reasons.
 
 2. **Alibaba Cloud - Dataphin - Dec 2022-Present**
-   * Involved in daily iterations of Dataphin, an intelligent data construction and management platform, primarily responsible for the asset directory module
-   * Developed frontend interface using `React`, mainly focusing on the development of complex linkage tasks such as tables and forms
+   * Contributed to the development and maintenance of a web-based code editor using `Monaco Editor`
+   * Participated in iterative development of the Dataphin intelligent data building and management platform, responsible for asset module
+   * Developed complex interlinked tasks like tables and forms using `React`
    
 2. **Tencent - Tencent Video Search Center Debug Whiteboard - Apr 2021-Oct 2022**
    * Provided a visual interface for developers to debug
@@ -53,6 +54,5 @@
 
 ## Personal Accounts and Websites
 * http://www.lawted.tech
-* https://www.snails.fi/
 * https://github.com/LAWTED
 
