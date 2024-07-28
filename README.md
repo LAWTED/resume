@@ -48,5 +48,5 @@
 
 ## Personal Accounts and Websites
 
-- [http://www.lawted.tech](http://www.lawted.tech/)
-- https://github.com/LAWTED
+- [Website Portfolio](https://lawted.vercel.app)
+- [Github](https://github.com/LAWTED)
