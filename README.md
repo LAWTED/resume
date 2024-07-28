@@ -10,7 +10,7 @@
 - Alibaba Cloud 2022.12—Present `inter & full-time` <span style="float:right;">Lingyang-Frontend Intern & Engineer</span>
 - MiniMax 2022.10—2022.12 `intern` <span style="float:right;">Business System Group-Frontend Intern</span>
 - Tencent 2021.4—2022.10 `intern` <span style="float:right;">PCG-Search Strategy Group-Frontend Intern</span>
-- Beijing University of Posts and Telecommunications 2019.9—2023.7 <span style="float:right;">Telecommunications Engineering and Management</span>
+- Beijing University of Posts and Telecommunications `bachelor` 2019.9—2023.7 <span style="float:right;">Telecommunications Engineering and Management</span>
 
 
 
